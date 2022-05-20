@@ -1,4 +1,4 @@
-# alfred-append-to-apple-notes
+# Append to Apple Notes, an Alfred Workflow
 
 An [Alfred](https://www.alfredapp.com) [workflow](https://www.alfredapp.com/workflows/) to append to the latest unshared Apple Notes note.
 
