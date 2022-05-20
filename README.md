@@ -10,7 +10,7 @@ Download and open: [Append to Apple Notes.alfredworkflow](https://github.com/jbr
 
 ### Alfred keywords
 
-This workflow creates two Alfred keywords: `note` and `note-`.
+This workflow creates two Alfred keywords: `note` and `note-`. Type these keywords into Alfred's prompt as follows:
 
 To append a note as a new line:
 
