@@ -8,14 +8,25 @@ Download and open: [Append to Apple Notes.alfredworkflow](https://github.com/jbr
 
 ## Usage
 
-Append text as a bullet:
+### Alfred keywords
+
+This workflow creates two Alfred keywords: `note` and `note-`.
+
+To append a note as a new line:
 
 ```
-> note ...
+note Text formatted as new line
 ```
 
-Append text as a new line:
+To append a note as a bulleted line:
 
 ```
-> noteln ...
+note- Text formatted as bulleted line
 ```
+
+### Global hotkeys
+
+This workflow also creates two global hotkeys, to make entering notes quick and easy:
+
+- `option+n`: Open Alfred with `note ` -- ready to enter note as new line
+- `option+b`: Open Alfred with `note- ` -- ready to enter note as bulleted line
